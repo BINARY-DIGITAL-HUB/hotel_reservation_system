@@ -1,0 +1,7 @@
+# ignore virt folder
+virt/
+
+# Other common ignores
+__pycache__/
+*.pyc
+.env
